@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Win40</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="topmmr">Top MMR Dota 2</string>
+    <string name="title_activity_top_mmr">TopMmrActivity</string>
+    <string name="title_activity_top_cs">TopCsActivity</string>
+    <string name="topCs">Top Cs players</string>
+</resources>
